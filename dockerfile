@@ -1,4 +1,3 @@
-
 FROM centos
 MAINTAINER "yaser.eidiko@gmail.com"
 RUN yum install wget -y
